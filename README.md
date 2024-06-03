@@ -1,4 +1,3 @@
-![image](https://github.com/Zombrooc/Zombrooc/assets/31045476/22e67916-f796-4b2c-9b1d-2ce98064a241)
 # Hello, my name is Elian Valdez (Zombrooc) 👋
 
 
