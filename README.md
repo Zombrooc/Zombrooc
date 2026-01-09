@@ -4,9 +4,9 @@ I'm a back-end developer focus on building clean, scalable and resilient systems
 
 ### 🧠 About me
 
-- 🔧 Primary stack: `Node.js`, `Express`, `Fastify`, `Hono`
-- 🧱 Working with: `PostgreSQL`, `Prisma ORM`, `TypeScript`, `Next.js (App Router)`
-- 🧪 Eager to start studying: `Java`
+- 🔧 Primary stack: `Node.js`, `Express`
+- 🧱 Working with: `PostgreSQL`, `Prisma ORM`, `Next.js (App Router)`
+- 🧪 Eager to start studying: `PHP`
 - 📍 Currently based in Brazil
 
 ### 🚀 Projects
