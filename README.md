@@ -5,7 +5,7 @@ I'm a back-end developer focus on building clean, scalable and resilient systems
 ### 🧠 About me
 
 - 🔧 Primary stack: `Node.js`, `Express`
-- 🧱 Working with: `PostgreSQL`, `Prisma ORM`, `Next.js (App Router)`
+- 🧱 Working with: `PostgreSQL`, `Docker`, `Redis`, `Prisma ORM`, `Next.js (App Router)`
 - 🧪 Eager to start studying: `PHP`
 - 📍 Currently based in Brazil
 
